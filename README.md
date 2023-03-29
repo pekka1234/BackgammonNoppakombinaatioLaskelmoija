@@ -1,0 +1,2 @@
+# BackgammonNoppakombinaatioLaskelmoija
+Laskee backgammon pelin noppakombinaatioiden mahdollisuuksua syödä nappulasi
